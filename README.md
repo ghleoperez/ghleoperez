@@ -9,7 +9,7 @@ Welcome to My GitHub Profile!
 - 👀 I’m interested in mobile and web development
   I am well-versed in a variety of programming languages including:
   [1] Mobile Programming languages: [Swift, Java, Kotlin, React native, Xamarin, Flutter, Ionic etc]
-  [2] Web Programming languages: [PHP, NodeJS, ReactJS, VueJS, AngularJS etc]
+  [2] Web Programming languages: [PHP, NodeJS, ReactJS, NextJS, VueJS, AngularJS etc]
   
 - 🌱 I’m currently learning macOS and UWP apps
   Recently, I developed UWP using React Native and Flutter.
